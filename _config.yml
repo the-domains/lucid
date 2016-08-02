@@ -6,9 +6,9 @@ color:
   saturation: 0.05639215372502804
   rhythmicContrast: 0.5651085223071277
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#303F42'
+    - '#5C7A6E'
+    - '#938777'
+    - '#1F2732'
+    - '#C2B394'
 name: lucid
